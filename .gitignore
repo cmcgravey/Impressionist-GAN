@@ -1,2 +1,4 @@
 artwork
 artwork/*.jpg
+artwork_dataset.csv
+info_dataset.csv
